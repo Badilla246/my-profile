@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "11 Oct 2003" },
+    {
+      "website": ""
+    },
+    { "phone": "+63 946-258-9509" },
+    { "address": "Macaas, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 20 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>angelo@yahoo.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Macaas, Tubigon, Bohol, Philippines",
+    "+63 946-258-9509",
+    "<a href='mailto:someone@example.com'>angelo@yahoo.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021 - 2024",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2009 - 2015",
+      "school": "Tubigon East Central Elementary School",
+      "address": "Macaas, Tubigon, Bohol"
+    }
+  ]
+}

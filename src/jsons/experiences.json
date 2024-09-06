@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "company": "Self-Employed",
+      "title": "Freelance Video Editor & Digital Product Creator",
+      "duration": "March 2019 - Present ",
+      "tasks": [
+        "Managed video editing projects from concept to final output, creating engaging visual content for various clients.",
+        "Collaborated with clients and creative teams to design and implement digital products for children, ensuring they align with client objectives and target audience needs.",
+        "Developed a workflow for editing, including color grading, sound design, and motion graphics, to maximize content quality and delivery efficiency.",
+        "Mentored junior freelancers in video editing techniques and project management, fostering a collaborative and supportive work environment.",
+        "Liaised with graphic designers, sound engineers, and other creative professionals to enhance the overall quality of digital products.",
+        "Built a portfolio of diverse projects, ranging from short films to educational content for kids."
+      ]
+    },
+    {
+      "company": "SmartGroup Enterprise Inc.",
+      "title": "Freelance Video Editor",
+      "duration": "May 2010 - Feb. 2019",
+      "tasks": [
+        "Edited video content for various platforms, using industry-standard software to deliver polished final products.",
+        "Conducted quality checks and debugging on video projects to ensure high standards in visual and audio output.",
+        "Worked closely with clients to understand project requirements and deliver tailored video solutions.",
+        "Deployed video content across multiple platforms, ensuring compatibility and optimal performance."
+      ]
+    },
+    {
+      "company": "Business Machine Corporation",
+      "title": "Service Techician",
+      "duration": "April 2008 - March 2009",
+      "tasks": [
+        "Provided technical support for video editing equipment and software, troubleshooting issues for clients.",
+        "Installed and configured video editing tools and software on-site, ensuring clients were equipped to start their projects.",
+        "Assisted clients in understanding the functionalities and best practices for using their video editing equipment."
+      ]
+    }
+  ]
+}

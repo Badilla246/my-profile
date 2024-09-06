@@ -1,0 +1,11 @@
+{
+  "medias": [
+    {
+      "name": "linkedin",
+      "link": ""
+    },
+    { "name": "facebook", "link": "https://www.facebook.com/profile.php?id=100080429326334" },
+    { "name": "github", "link": "https://github.com/Badilla246" },
+    { "name": "youtube", "link": "https://www.youtube.com/@AngeloBadilla-v5f" }
+  ]
+}
